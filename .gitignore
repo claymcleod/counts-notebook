@@ -1,0 +1,7 @@
+*.tsv
+*.txt
+*.gz
+*.gtf
+.ipynb_checkpoints/
+*.md5
+.Rhistory
